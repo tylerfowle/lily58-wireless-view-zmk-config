@@ -72,7 +72,7 @@
 
         SYM {
             bindings = <
-&kp TILDE  &trans                &trans                 &trans          &trans     &trans                    &trans  &trans                &trans                 &trans     &trans          &kp BACKSPACE
+&kp GRAVE  &trans                &trans                 &trans          &trans     &trans                    &trans  &trans                &trans                 &trans     &trans          &kp BACKSPACE
 &trans     &kp EXCLAMATION       &kp AT                 &kp HASH        &kp DLLR   &trans                    &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans     &trans          &trans
 &trans     &kp PERCENT           &kp CARET              &kp AMPERSAND   &kp ASTRK  &trans                    &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS  &kp UNDERSCORE  &trans
 &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp UNDERSCORE  &kp PLUS   &trans  &trans    &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans     &trans          &trans
